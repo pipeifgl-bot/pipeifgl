@@ -3,7 +3,6 @@ Ingeniero de Sistemas y Diseñador UX/UI con más de 2 años de experiencia en i
 <h1 align="center">Habilidades</h1>
 
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" style="height:4rem; background-color:white"/>
 
 </p>
 
