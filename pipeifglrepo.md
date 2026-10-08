@@ -14,9 +14,13 @@ desarrollo de soluciones digitales. También he participado en proyectos de UX/U
   </a>
 </p> 
 <p align="center">
-  <img src="./images/adobe-express.png" alt="Adobe Express" height="64">
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+         alt="Figma" height="64">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.adobe.com/express/" target="_blank">
+    <img src="./images/express.svg" alt="Adobe Express" height="64">
+  </a>
 </p>
-
----
-
 <h1 align="center">STATS</h1>
