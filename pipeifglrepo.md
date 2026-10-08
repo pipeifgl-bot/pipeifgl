@@ -1,4 +1,3 @@
-<img width="2000" height="2000" alt="canvan" src="https://github.com/user-attachments/assets/c59178b3-2dba-4c4f-a141-82194da5b065" />
 
 ###  Hola 👋 soy Iván Felipe González Lozano,
 Ingeniero de Sistemas y Diseñador UX/UI Junior con más de 2 años de experiencia en tecnología y 1 año en diseño digital.
