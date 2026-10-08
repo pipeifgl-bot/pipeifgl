@@ -12,15 +12,15 @@ desarrollo de soluciones digitales. También he participado en proyectos de UX/U
 <table align="center">
   <tr>
     <td align="center">
-      <a href="Boyaapp.png">
-        <img src="Boyaapp.png" width="250" alt="Proyecto UX/UI 1">
+      <a href="">
+        <img src="" width="250" alt="Proyecto UX/UI 1">
       </a><br>
       <strong>Proyecto 1</strong><br>
       Breve descripción del proyecto.
     </td>
     <td align="center">
-      <a href="URL_IMAGEN_2">
-        <img src="URL_IMAGEN_2" width="250" alt="Proyecto UX/UI 2">
+      <a href="Boyaapp.png">
+        <img src="Boyaapp.png" width="250" alt="Proyecto UX/UI 2">
       </a><br>
       <strong>Proyecto 2</strong><br>
       Breve descripción del proyecto.
