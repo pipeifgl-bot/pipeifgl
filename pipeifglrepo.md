@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./INGENIERO%20DE%20SISTEMAS.png"
+  <img src="./INGENIERO DE SISTEMAS.png"
        alt="Banner de Iván Felipe, Ingeniero de Sistemas"
        width="1200"
        height="480">
