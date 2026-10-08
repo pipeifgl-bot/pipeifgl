@@ -8,21 +8,54 @@ desarrollo de soluciones digitales. También he participado en proyectos de UX/U
 
 <table>
   <tr>
-    <td width="50%">
-      <a href="URL_DE_IMAGEN_MOTO_MELLOS">
-        <img src="URL_DE_IMAGEN_MOTO_MELLOS"
-             alt="Diseño UX/UI de Moto Mellos" width="100%">
-      </a>
-      <h3>Moto Mellos</h3>
-      <p>Diseño web UX/UI para tienda de motocicletas.</p>
+    <td width="33%">
+      <a href="URL_IMAGEN_1"><img src="URL_IMAGEN_1" alt="Proyecto UX/UI 1" width="100%"></a>
+      <h3>Proyecto 1</h3>
+      <p>Breve descripción del proyecto.</p>
     </td>
-    <td width="50%">
-      <a href="URL_DE_IMAGEN_RESTAURANTE">
-        <img src="URL_DE_IMAGEN_RESTAURANTE"
-             alt="Diseño de plataforma para restaurante" width="100%">
-      </a>
-      <h3>Plataforma para restaurante</h3>
-      <p>Diseño de vistas para una experiencia digital de restaurante.</p>
+    <td width="33%">
+      <a href="URL_IMAGEN_2"><img src="URL_IMAGEN_2" alt="Proyecto UX/UI 2" width="100%"></a>
+      <h3>Proyecto 2</h3>
+      <p>Breve descripción del proyecto.</p>
+    </td>
+    <td width="33%">
+      <a href="URL_IMAGEN_3"><img src="URL_IMAGEN_3" alt="Proyecto UX/UI 3" width="100%"></a>
+      <h3>Proyecto 3</h3>
+      <p>Breve descripción del proyecto.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%">
+      <a href="URL_IMAGEN_4"><img src="URL_IMAGEN_4" alt="Proyecto UX/UI 4" width="100%"></a>
+      <h3>Proyecto 4</h3>
+      <p>Breve descripción del proyecto.</p>
+    </td>
+    <td width="33%">
+      <a href="URL_IMAGEN_5"><img src="URL_IMAGEN_5" alt="Proyecto UX/UI 5" width="100%"></a>
+      <h3>Proyecto 5</h3>
+      <p>Breve descripción del proyecto.</p>
+    </td>
+    <td width="33%">
+      <a href="URL_IMAGEN_6"><img src="URL_IMAGEN_6" alt="Proyecto UX/UI 6" width="100%"></a>
+      <h3>Proyecto 6</h3>
+      <p>Breve descripción del proyecto.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%">
+      <a href="URL_IMAGEN_7"><img src="URL_IMAGEN_7" alt="Proyecto UX/UI 7" width="100%"></a>
+      <h3>Proyecto 7</h3>
+      <p>Breve descripción del proyecto.</p>
+    </td>
+    <td width="33%">
+      <a href="URL_IMAGEN_8"><img src="URL_IMAGEN_8" alt="Proyecto UX/UI 8" width="100%"></a>
+      <h3>Proyecto 8</h3>
+      <p>Breve descripción del proyecto.</p>
+    </td>
+    <td width="33%">
+      <a href="URL_IMAGEN_9"><img src="URL_IMAGEN_9" alt="Proyecto UX/UI 9" width="100%"></a>
+      <h3>Proyecto 9</h3>
+      <p>Breve descripción del proyecto.</p>
     </td>
   </tr>
 </table>
