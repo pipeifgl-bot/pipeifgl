@@ -1,3 +1,4 @@
+<img width="1440" height="1024" alt="Boyaapp" src="https://github.com/user-attachments/assets/59d5cea3-e3b8-42c2-b4b9-099c9e547b95" />
 ###  Hola 👋 soy Iván Felipe González Lozano,
 Ingeniero de Sistemas y Diseñador UX/UI Junior con más de 2 años de experiencia en tecnología y 1 año en diseño digital.
 Experiencia en infraestructura tecnológica, administración y mantenimiento de redes, soporte técnico, optimización de equipos y
@@ -11,8 +12,8 @@ desarrollo de soluciones digitales. También he participado en proyectos de UX/U
 <table align="center">
   <tr>
     <td align="center">
-      <a href="URL_IMAGEN_1">
-        <img src="URL_IMAGEN_1" width="250" alt="Proyecto UX/UI 1">
+      <a href="Boyaapp.png">
+        <img src="Boyaapp.png" width="250" alt="Proyecto UX/UI 1">
       </a><br>
       <strong>Proyecto 1</strong><br>
       Breve descripción del proyecto.
