@@ -4,15 +4,7 @@ Experiencia en infraestructura tecnológica, administración y mantenimiento de 
 desarrollo de soluciones digitales. También he participado en proyectos de UX/UI, diseño web, identidad visual y creación de piezas gráficas. Me caracterizo por el análisis, la resolución de problemas, la creatividad, el compromiso y el trabajo en equipo.
 <h1 align="center">Habilidades</h1>
 
-<p align="center">
-  <a href="https://www.figma.com/" target="_blank">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
-      alt="Figma"
-      height="64"
-    />
-  </a>
-</p> 
+
 <p align="center">
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
