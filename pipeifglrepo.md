@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="./INGENIERO DE SISTEMAS.png"
-       alt="Banner de Iván Felipe, Ingeniero de Sistemas"
-       width="1200"
-       height="480">
+  <img src="INGENIERO DE SISTEMAS.png" width="1200" height="480">
+</p>
 </p>
 
 <h3 align="center">Hola 👋, soy Iván Felipe González Lozano</h3>
