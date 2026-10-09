@@ -6,7 +6,26 @@
   Ingeniero de Sistemas y diseñador UX/UI junior con experiencia en tecnología y diseño digital.
   Cuenta con experiencia en infraestructura tecnológica, administración y mantenimiento de redes,
   soporte técnico, optimización de equipos y desarrollo de soluciones digitales. También ha participado
-  en proyectos de UX/UI, diseño web, identidad visual y creación de piezas gráficas.
+  en proyectos de UX/UI, diseño web, identidad visual y creación de piezas gráficas. 
+<h2 align="left">Ubicación</h2>
+
+<table>
+  <tr>
+    <td width="420" align="center">
+      <a href="https://www.google.com/maps/search/?api=1&query=Bogotá,+Colombia">
+        <img src="https://staticmap.openstreetmap.de/staticmap.php?center=4.65,-74.08&zoom=11&size=600x300&markers=4.65,-74.08,red-pushpin" alt="Mapa de Bogotá, Colombia" width="100%">
+      </a>
+      <br><br>
+      📍 <b>Bogotá, Colombia</b>
+      <br><br>
+      <a href="https://www.google.com/maps/search/?api=1&query=Bogotá,+Colombia">
+        <img src="https://img.shields.io/badge/Ver%20en%20Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ver en Google Maps">
+      </a>
+    </td>
+  </tr>
+</table>
+
+  
 </p>
 <h2 align="center">Habilidades</h2>
 <p align="center">
