@@ -1,3 +1,6 @@
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
 <h3 align="center">Hola 👋, soy Iván Felipe González Lozano</h3>
 <p align="center">
   Ingeniero de Sistemas y diseñador UX/UI junior con experiencia en tecnología y diseño digital.
