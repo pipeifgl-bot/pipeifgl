@@ -35,8 +35,8 @@
 <!-- EXPERIENCIA 1 -->
 <table align="center" width="100%">
   <tr>
-    <td width="70%"><h3>🏢 Inflaparque Acuático Ikarus Ecoparque 1</h3><b>Cargo</b></td>
-    <td width="30%" align="center"><h3>📅 2025 - Actualidad</h3></td>
+    <td width="70%"><h3>🏢 Inflaparque Acuático Ikarus Ecoparque </h3><b>Cargo</b></td>
+    <td width="30%" align="center"><h3>📅 2025 - 2026</h3></td>
   </tr>
   <tr>
     <td colspan="2">
