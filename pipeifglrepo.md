@@ -48,7 +48,7 @@ Desarrolló publicaciones para redes sociales, apoyó iniciativas y proyectos, c
 <!-- EXPERIENCIA 2 -->
 <table align="center" width="100%">
   <tr>
-    <td width="70%"><h3>🏢 Productor digital</h3><b>Cargo</b></td>
+    <td width="70%"><h3>🏢 Productor digital</h3><b>Dinamo Marketing</b></td>
     <td width="30%" align="center"><h3>📅 2024 </h3></td>
   </tr>
   <tr>
