@@ -49,7 +49,7 @@ Desarrolló publicaciones para redes sociales, apoyó iniciativas y proyectos, c
 <table align="center" width="100%">
   <tr>
     <td width="70%"><h3>🏢 Productor digital</h3><b>Cargo</b></td>
-    <td width="30%" align="center"><h3>📅 Junio 2024      Diciembre 2024 </h3></td>
+    <td width="30%" align="center"><h3>📅 2024 </h3></td>
   </tr>
   <tr>
     <td colspan="2">
