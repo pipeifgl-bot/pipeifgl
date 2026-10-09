@@ -98,14 +98,21 @@ Desarrolló publicaciones para redes sociales, apoyó iniciativas y proyectos, c
 </table> 
 <h2 align="left">Conocimientos</h2>
 
-<h3 align="left">🎨 Diseño UX/UI</h3>
+<h2 align="left">Conocimientos</h2>
 
-<ul>
-  <li>Wireframes</li>
-  <li>Prototipado</li>
-  <li>Diseño responsivo</li>
-  <li>Atomic Design</li>
-  <li>Pixel Perfect</li>
-  <li>Generación de contenido con IA</li>
-  <li>Actualizaciones de software en diseño</li>
-</ul>
+<table>
+  <tr>
+    <th align="left" width="420">🎨 Diseño UX/UI</th>
+  </tr>
+  <tr>
+    <td>
+      ✅ Wireframes<br>
+      ✅ Prototipado<br>
+      ✅ Diseño responsivo<br>
+      ✅ Atomic Design<br>
+      ✅ Pixel Perfect<br>
+      ✅ Generación de contenido con IA<br>
+      ✅ Actualizaciones de software en diseño
+    </td>
+  </tr>
+</table>
