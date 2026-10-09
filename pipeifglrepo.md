@@ -7,7 +7,13 @@
   Cuenta con experiencia en infraestructura tecnológica, administración y mantenimiento de redes,
   soporte técnico, optimización de equipos y desarrollo de soluciones digitales. También ha participado
   en proyectos de UX/UI, diseño web, identidad visual y creación de piezas gráficas. 
-<h2 align="center">Ubicación</h2> 
+<h2 align="center">Ubicación</h2>
+
+<p align="center">
+  <a href="https://www.google.com/maps/search/?api=1&query=Bogotá,+Colombia">
+    <img src="https://img.shields.io/badge/UBICACIÓN-Bogotá,%20Colombia-30363D?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117" alt="Ubicación: Bogotá, Colombia">
+  </a>
+</p>
 <h2 align="center">Habilidades</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge" alt="Figma">
