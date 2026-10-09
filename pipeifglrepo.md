@@ -8,28 +8,16 @@
   soporte técnico, optimización de equipos y desarrollo de soluciones digitales. También ha participado
   en proyectos de UX/UI, diseño web, identidad visual y creación de piezas gráficas. 
 <h2 align="center">Ubicación</h2> 
-<h2 align="center">Escucha mis gustos musicales mientras revisas mi repositorio</h2>
 
-<table align="center">
-  <tr>
-    <td align="center" width="420">
-      <a href="https://www.youtube.com/watch?v=9br_LNtG-lg&list=RD9br_LNtG-lg&start_radio=1">
-        <img src="https://img.youtube.com/vi/9br_LNtG-lg/hqdefault.jpg" alt="Anyma, Stylo - No Good (Live from ÆDEN Mexico City)" width="100%">
-      </a>
-      <br><br>
-      <b>No Good [Live from ÆDEN Mexico City]</b><br>
-      <sub>Anyma, Stylo</sub>
-      <br><br>
-      <a href="https://www.youtube.com/watch?v=9br_LNtG-lg&list=RD9br_LNtG-lg&start_radio=1">
-        <img src="https://img.shields.io/badge/▶%20REPRODUCIR-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117" alt="Reproducir en YouTube">
-      </a>
-    </td>
-  </tr>
-</table>
 <p align="center">
   <a href="https://www.google.com/maps/search/?api=1&query=Bogotá,+Colombia">
-    <img src="https://img.shields.io/badge/UBICACIÓN-Bogotá,%20Colombia-30363D?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117" alt="Ubicación: Bogotá, Colombia">
-  </a>
+    <img src="https://img.shields.io/badge/UBICACIÓN-Bogotá,%20Colombia-30363D?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117" alt="Ubicación: Bogotá, Colombia"> 
+  </a> 
+  <h2 align="center">🎧 Mi música</h2>
+
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/TU-ID-DEL-ARCHIVO" controls width="420"></video>
+</p>
 </p>
 <h2 align="center">Habilidades</h2>
 <p align="center">
