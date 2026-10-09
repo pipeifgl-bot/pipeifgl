@@ -11,11 +11,8 @@
 
 <p align="center">
   <a href="https://www.google.com/maps/search/?api=1&query=Bogotá,+Colombia">
-    <img src="https://img.shields.io/badge/📍%20Bogotá,%20Colombia-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Bogotá, Colombia">
+    <img src="https://img.shields.io/badge/UBICACIÓN-Bogotá,%20Colombia-30363D?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117" alt="Ubicación: Bogotá, Colombia">
   </a>
-</p>
-
-  
 </p>
 <h2 align="center">Habilidades</h2>
 <p align="center">
