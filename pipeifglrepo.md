@@ -13,7 +13,11 @@
   <a href="https://www.google.com/maps/search/?api=1&query=Bogotá,+Colombia">
     <img src="https://img.shields.io/badge/UBICACIÓN-Bogotá,%20Colombia-30363D?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117" alt="Ubicación: Bogotá, Colombia"> 
   </a> 
-------
+<h2 align="center">🎧 Mi música</h2>
+
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/PEGA-AQUI-EL-ID" controls width="420"></video>
+</p>
 <h2 align="center">Habilidades</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge" alt="Figma">
