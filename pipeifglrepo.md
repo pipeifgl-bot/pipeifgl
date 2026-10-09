@@ -40,7 +40,8 @@
   </tr>
   <tr>
     <td colspan="2">
-      Escribe aquí tu experiencia en esta empresa (mínimo 500 caracteres). Describe las funciones que desempeñaste, las herramientas y tecnologías que utilizaste, los proyectos en los que participaste y los logros o resultados que obtuviste. Por ejemplo: administración y mantenimiento de redes, soporte técnico a usuarios, optimización de equipos, diseño de interfaces en Figma, creación de piezas gráficas y documentación de procesos. Explica también cómo contribuiste al equipo y qué aprendiste durante esta etapa.
+     .
+     Desarrolló publicaciones para redes sociales, apoyó iniciativas y proyectos, colaboró en tareas de soporte de TI y marketing digital, atendió consulta s de servicio al cliente a través de la página web y gestionó el registro y seguimiento de tickets..
     </td>
   </tr>
 </table>
