@@ -1,17 +1,10 @@
-<p align="center">
-  <img src="INGENIERO DE SISTEMAS.png" width="1200" height="480">
-</p>
-</p>
-
 <h3 align="center">Hola 👋, soy Iván Felipe González Lozano</h3>
-
 <p align="center">
   Ingeniero de Sistemas y diseñador UX/UI junior con experiencia en tecnología y diseño digital.
   Cuenta con experiencia en infraestructura tecnológica, administración y mantenimiento de redes,
   soporte técnico, optimización de equipos y desarrollo de soluciones digitales. También ha participado
   en proyectos de UX/UI, diseño web, identidad visual y creación de piezas gráficas.
 </p>
-
 <h2 align="center">Habilidades</h2>
 
 <p align="center">
