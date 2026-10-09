@@ -48,12 +48,12 @@ Desarrolló publicaciones para redes sociales, apoyó iniciativas y proyectos, c
 <!-- EXPERIENCIA 2 -->
 <table align="center" width="100%">
   <tr>
-    <td width="70%"><h3>🏢 Nombre de la empresa 2</h3><b>Cargo</b></td>
-    <td width="30%" align="center"><h3>📅 2024 - 2025</h3></td>
+    <td width="70%"><h3>🏢 Productor digital</h3><b>Cargo</b></td>
+    <td width="30%" align="center"><h3>📅 Junio 2024 Diciembre 2024 </h3></td>
   </tr>
   <tr>
     <td colspan="2">
-      Escribe aquí tu experiencia en esta empresa (mínimo 500 caracteres). Describe las funciones que desempeñaste, las herramientas y tecnologías que utilizaste, los proyectos en los que participaste y los logros o resultados que obtuviste. Por ejemplo: administración y mantenimiento de redes, soporte técnico a usuarios, optimización de equipos, diseño de interfaces en Figma, creación de piezas gráficas y documentación de procesos. Explica también cómo contribuiste al equipo y qué aprendiste durante esta etapa.
+    Planificó y apoyó la producción de contenidos y piezas digitales, coordinó ideas, diseño y publicación según las necesidades de cada proyecto, y colab oró en la creación de materiales para plataformas digitales. Cuidó la calidad visual y la claridad de los mensajes, contribuyendo a mejorar la presentación de los proyectos y a entregar contenidos atractivos para sus usuarios.
     </td>
   </tr>
 </table>
