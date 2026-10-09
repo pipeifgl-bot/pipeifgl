@@ -98,8 +98,6 @@ Desarrolló publicaciones para redes sociales, apoyó iniciativas y proyectos, c
 </table> 
 <h2 align="left">Conocimientos</h2>
 
-<h2 align="left">Conocimientos</h2>
-
 <table>
   <tr>
     <th align="left" width="420">🎨 Diseño UX/UI</th>
