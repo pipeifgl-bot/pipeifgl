@@ -40,8 +40,7 @@
   </tr>
   <tr>
     <td colspan="2">
-     .
-     Desarrolló publicaciones para redes sociales, apoyó iniciativas y proyectos, colaboró en tareas de soporte de TI y marketing digital, atendió consulta s de servicio al cliente a través de la página web y gestionó el registro y seguimiento de tickets..
+Desarrolló publicaciones para redes sociales, apoyó iniciativas y proyectos, colaboró en tareas de soporte de TI y marketing digital, atendió consulta s de servicio al cliente a través de la página web y gestionó el registro y seguimiento de tickets..
     </td>
   </tr>
 </table>
