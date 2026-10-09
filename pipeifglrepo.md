@@ -22,3 +22,77 @@
   <img src="https://img.shields.io/badge/Soporte%20TI-0078D4?style=for-the-badge" alt="Soporte TI">
   <img src="https://img.shields.io/badge/Mantenimiento%20de%20Equipos-6C757D?style=for-the-badge" alt="Mantenimiento de Equipos">
 </p>
+<h2 align="center">Experiencia laboral</h2>
+
+<!--
+  CÓMO USAR:
+  1. Cambia "Nombre de la empresa", el cargo y el año.
+  2. Reemplaza el texto del recuadro por tu experiencia (mínimo 500 caracteres).
+  3. Si tienes menos de 5 experiencias, borra el bloque <table>...</table> que no uses.
+  Un buen texto incluye: tus funciones, herramientas usadas, logros y resultados.
+-->
+
+<!-- EXPERIENCIA 1 -->
+<table align="center" width="100%">
+  <tr>
+    <td width="70%"><h3>🏢 Nombre de la empresa 1</h3><b>Cargo</b></td>
+    <td width="30%" align="center"><h3>📅 2025 - Actualidad</h3></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      Escribe aquí tu experiencia en esta empresa (mínimo 500 caracteres). Describe las funciones que desempeñaste, las herramientas y tecnologías que utilizaste, los proyectos en los que participaste y los logros o resultados que obtuviste. Por ejemplo: administración y mantenimiento de redes, soporte técnico a usuarios, optimización de equipos, diseño de interfaces en Figma, creación de piezas gráficas y documentación de procesos. Explica también cómo contribuiste al equipo y qué aprendiste durante esta etapa.
+    </td>
+  </tr>
+</table>
+
+<!-- EXPERIENCIA 2 -->
+<table align="center" width="100%">
+  <tr>
+    <td width="70%"><h3>🏢 Nombre de la empresa 2</h3><b>Cargo</b></td>
+    <td width="30%" align="center"><h3>📅 2024 - 2025</h3></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      Escribe aquí tu experiencia en esta empresa (mínimo 500 caracteres). Describe las funciones que desempeñaste, las herramientas y tecnologías que utilizaste, los proyectos en los que participaste y los logros o resultados que obtuviste. Por ejemplo: administración y mantenimiento de redes, soporte técnico a usuarios, optimización de equipos, diseño de interfaces en Figma, creación de piezas gráficas y documentación de procesos. Explica también cómo contribuiste al equipo y qué aprendiste durante esta etapa.
+    </td>
+  </tr>
+</table>
+
+<!-- EXPERIENCIA 3 -->
+<table align="center" width="100%">
+  <tr>
+    <td width="70%"><h3>🏢 Nombre de la empresa 3</h3><b>Cargo</b></td>
+    <td width="30%" align="center"><h3>📅 2023 - 2024</h3></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      Escribe aquí tu experiencia en esta empresa (mínimo 500 caracteres). Describe las funciones que desempeñaste, las herramientas y tecnologías que utilizaste, los proyectos en los que participaste y los logros o resultados que obtuviste. Por ejemplo: administración y mantenimiento de redes, soporte técnico a usuarios, optimización de equipos, diseño de interfaces en Figma, creación de piezas gráficas y documentación de procesos. Explica también cómo contribuiste al equipo y qué aprendiste durante esta etapa.
+    </td>
+  </tr>
+</table>
+
+<!-- EXPERIENCIA 4 -->
+<table align="center" width="100%">
+  <tr>
+    <td width="70%"><h3>🏢 Nombre de la empresa 4</h3><b>Cargo</b></td>
+    <td width="30%" align="center"><h3>📅 2022 - 2023</h3></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      Escribe aquí tu experiencia en esta empresa (mínimo 500 caracteres). Describe las funciones que desempeñaste, las herramientas y tecnologías que utilizaste, los proyectos en los que participaste y los logros o resultados que obtuviste. Por ejemplo: administración y mantenimiento de redes, soporte técnico a usuarios, optimización de equipos, diseño de interfaces en Figma, creación de piezas gráficas y documentación de procesos. Explica también cómo contribuiste al equipo y qué aprendiste durante esta etapa.
+    </td>
+  </tr>
+</table>
+
+<!-- EXPERIENCIA 5 -->
+<table align="center" width="100%">
+  <tr>
+    <td width="70%"><h3>🏢 Nombre de la empresa 5</h3><b>Cargo</b></td>
+    <td width="30%" align="center"><h3>📅 2021 - 2022</h3></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      Escribe aquí tu experiencia en esta empresa (mínimo 500 caracteres). Describe las funciones que desempeñaste, las herramientas y tecnologías que utilizaste, los proyectos en los que participaste y los logros o resultados que obtuviste. Por ejemplo: administración y mantenimiento de redes, soporte técnico a usuarios, optimización de equipos, diseño de interfaces en Figma, creación de piezas gráficas y documentación de procesos. Explica también cómo contribuiste al equipo y qué aprendiste durante esta etapa.
+    </td>
+  </tr>
+</table>
