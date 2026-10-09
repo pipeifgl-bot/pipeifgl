@@ -95,4 +95,17 @@ Desarrolló publicaciones para redes sociales, apoyó iniciativas y proyectos, c
       Escribe aquí tu experiencia en esta empresa (mínimo 500 caracteres). Describe las funciones que desempeñaste, las herramientas y tecnologías que utilizaste, los proyectos en los que participaste y los logros o resultados que obtuviste. Por ejemplo: administración y mantenimiento de redes, soporte técnico a usuarios, optimización de equipos, diseño de interfaces en Figma, creación de piezas gráficas y documentación de procesos. Explica también cómo contribuiste al equipo y qué aprendiste durante esta etapa.
     </td>
   </tr>
-</table>
+</table> 
+<h2 align="left">Conocimientos</h2>
+
+<h3 align="left">🎨 Diseño UX/UI</h3>
+
+<ul>
+  <li>Wireframes</li>
+  <li>Prototipado</li>
+  <li>Diseño responsivo</li>
+  <li>Atomic Design</li>
+  <li>Pixel Perfect</li>
+  <li>Generación de contenido con IA</li>
+  <li>Actualizaciones de software en diseño</li>
+</ul>
