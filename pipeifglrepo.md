@@ -27,4 +27,83 @@
 <!-- EXPERIENCIA 1 -->
 <table align="center" width="100%">
   <tr>
-    <td width="70%"><h3>🏢 Inflaparque Acuático Ikarus
+    <td width="70%"><h3>🏢 Inflaparque Acuático Ikarus Ecoparque</h3><b>Productor digital</b></td>
+    <td width="30%" align="center"><h3>📅 2025 - 2026</h3></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      Desarrolló publicaciones para redes sociales, apoyó iniciativas y proyectos, colaboró en tareas de soporte de TI y marketing digital, atendió consultas de servicio al cliente a través de la página web y gestionó el registro y seguimiento de tickets.
+    </td>
+  </tr>
+</table>
+
+<!-- EXPERIENCIA 2 -->
+<table align="center" width="100%">
+  <tr>
+    <td width="70%"><h3>🏢 Dinamo Marketing</h3><b>Productor digital</b></td>
+    <td width="30%" align="center"><h3>📅 2024</h3></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      Planificó y apoyó la producción de contenidos y piezas digitales, coordinó ideas, diseño y publicación según las necesidades de cada proyecto, y colaboró en la creación de materiales para plataformas digitales. Cuidó la calidad visual y la claridad de los mensajes, contribuyendo a mejorar la presentación de los proyectos y a entregar contenidos atractivos para sus usuarios.
+    </td>
+  </tr>
+</table>
+
+<!-- EXPERIENCIA 3 -->
+<table align="center" width="100%">
+  <tr>
+    <td width="70%"><h3>🏢 Nombre de la empresa 3</h3><b>Cargo</b></td>
+    <td width="30%" align="center"><h3>📅 2023 - 2024</h3></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      Escribe aquí tu experiencia en esta empresa (mínimo 500 caracteres). Describe las funciones que desempeñaste, las herramientas y tecnologías que utilizaste, los proyectos en los que participaste y los logros o resultados que obtuviste. Por ejemplo: administración y mantenimiento de redes, soporte técnico a usuarios, optimización de equipos, diseño de interfaces en Figma, creación de piezas gráficas y documentación de procesos. Explica también cómo contribuiste al equipo y qué aprendiste durante esta etapa.
+    </td>
+  </tr>
+</table>
+
+<!-- EXPERIENCIA 4 -->
+<table align="center" width="100%">
+  <tr>
+    <td width="70%"><h3>🏢 Nombre de la empresa 4</h3><b>Cargo</b></td>
+    <td width="30%" align="center"><h3>📅 2022 - 2023</h3></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      Escribe aquí tu experiencia en esta empresa (mínimo 500 caracteres). Describe las funciones que desempeñaste, las herramientas y tecnologías que utilizaste, los proyectos en los que participaste y los logros o resultados que obtuviste. Por ejemplo: administración y mantenimiento de redes, soporte técnico a usuarios, optimización de equipos, diseño de interfaces en Figma, creación de piezas gráficas y documentación de procesos. Explica también cómo contribuiste al equipo y qué aprendiste durante esta etapa.
+    </td>
+  </tr>
+</table>
+
+<!-- EXPERIENCIA 5 -->
+<table align="center" width="100%">
+  <tr>
+    <td width="70%"><h3>🏢 Nombre de la empresa 5</h3><b>Cargo</b></td>
+    <td width="30%" align="center"><h3>📅 2021 - 2022</h3></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      Escribe aquí tu experiencia en esta empresa (mínimo 500 caracteres). Describe las funciones que desempeñaste, las herramientas y tecnologías que utilizaste, los proyectos en los que participaste y los logros o resultados que obtuviste. Por ejemplo: administración y mantenimiento de redes, soporte técnico a usuarios, optimización de equipos, diseño de interfaces en Figma, creación de piezas gráficas y documentación de procesos. Explica también cómo contribuiste al equipo y qué aprendiste durante esta etapa.
+    </td>
+  </tr>
+</table>
+
+<h2 align="left">Conocimientos</h2>
+
+<table>
+  <tr>
+    <th align="left" width="420">🎨 Diseño UX/UI</th>
+  </tr>
+  <tr>
+    <td>
+      ✅ Wireframes<br>
+      ✅ Prototipado<br>
+      ✅ Diseño responsivo<br>
+      ✅ Atomic Design<br>
+      ✅ Pixel Perfect<br>
+      ✅ Generación de contenido con IA<br>
+      ✅ Actualizaciones de software en diseño
+    </td>
+  </tr>
+</table>
