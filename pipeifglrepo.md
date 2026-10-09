@@ -20,3 +20,4 @@
 </p>
 
 <h2 align="center">Mis proyectos UX/UI</h2>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
