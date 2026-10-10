@@ -73,7 +73,7 @@
 <table align="center" width="100%">
   <tr>
     <td width="70%"><h3>Estrella International Energy Services</h3><b>Ingeniero de Soporte TI</b></td>
-    <td width="30%" align="center"><h3>📅 2022 - 2023</h3></td>
+    <td width="30%" align="center"><h3>2022</h3></td>
   </tr>
   <tr>
     <td colspan="2">
