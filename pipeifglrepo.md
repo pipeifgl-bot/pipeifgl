@@ -27,6 +27,8 @@
   <img src="https://img.shields.io/badge/Office%20365-D83B01?style=for-the-badge" alt="Office 365">
   <img src="https://img.shields.io/badge/Soporte%20TI-0078D4?style=for-the-badge" alt="Soporte TI">
   <img src="https://img.shields.io/badge/Mantenimiento%20de%20Equipos-6C757D?style=for-the-badge" alt="Mantenimiento de Equipos">
+  <img src="https://img.shields.io/badge/Mantenimiento%20de%20Equipos-6C757D?style=for-the-badge" alt="VirtualBox">
+  <img src="https://img.shields.io/badge/Mantenimiento%20de%20Equipos-6C757D?style=for-the-badge" alt="Rufus">
 </p>
 <h2 align="center">Experiencia laboral</h2>
 
