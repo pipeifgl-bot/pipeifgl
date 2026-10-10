@@ -131,4 +131,5 @@ Se desempeñó como Ingeniero de Soporte TI en el complejo E2029, ubicado en Cab
  Su experiencia en Ikarus Inflaparque Acuático fue principalmente de aprendizaje, al tratarse de su primer empleo. Adquirió conocimientos en sistemas, atención al cliente y manejo del Call Center de Avaya. Realizó soporte técnico, apoyó la administración del servidor y gestionó el servicio de internet del parque. Además, desarrolló habilidades de resolución de problemas, comunicación y trabajo en equipo.
     </td>
   </tr>
-</table> 
+</table>  
+<img width="1200" height="480" alt="GitHub Repository Banner" src="https://github.com/user-attachments/assets/1c433295-9d17-45d5-af8b-be1a38dec068" />
