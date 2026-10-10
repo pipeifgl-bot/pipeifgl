@@ -1,4 +1,4 @@
-<img width="1200" height="480" alt="INGENIERO DE SISTEMAS" src="https://github.com/user-attachments/assets/1c433295-9d17-45d5-af8b-be1a38dec068" />
+<img width="3780" height="1890" alt="GitHub Repository Banner" src="https://github.com/user-attachments/assets/8c3ed575-f1c2-43af-a587-21eb36ae4a5c" />
 <div align="center">
 </div>
 <h3 align="center">Hola 👋, soy Iván Felipe González Lozano</h3>
@@ -133,4 +133,4 @@ Se desempeñó como Ingeniero de Soporte TI en el complejo E2029, ubicado en Cab
     </td>
   </tr>
 </table> 
-
+<img width="1200" height="480" alt="GitHub Repository Banner" src="https://github.com/user-attachments/assets/1c433295-9d17-45d5-af8b-be1a38dec068" />
