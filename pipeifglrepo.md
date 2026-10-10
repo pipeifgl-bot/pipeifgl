@@ -49,7 +49,22 @@
   <img src="https://img.shields.io/badge/GPT%20Image%201-10A37F?style=for-the-badge" alt="GPT Image 1">
   <img src="https://img.shields.io/badge/FLUX.1%20[pro]%20Ultra%20Raw-000000?style=for-the-badge" alt="FLUX.1 [pro] Ultra Raw">
   <img src="https://img.shields.io/badge/FLUX.1%20[pro]%20Ultra-000000?style=for-the-badge" alt="FLUX.1 [pro] Ultra">
-  <img src="https://img.shields.io/badge/FLUX.1%20Kontext%20[pro]-000000?style=for-the-badge" alt="FLUX.1 Kontext [pro]">
+  <img src="https://img.shields.io/badge/FLUX.1%20Kontext%20[pro]-000000?style=for-the-badge" alt="FLUX.1 Kontext [pro]"> 
+  <br>
+
+<h3 align="center">Conocimientos en generadores de video con IA</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Adobe%20Firefly%20Video-EB1000?style=for-the-badge" alt="Adobe Firefly Video">
+  <img src="https://img.shields.io/badge/Google%20Veo%203.1-4285F4?style=for-the-badge" alt="Google Veo 3.1">
+  <img src="https://img.shields.io/badge/Google%20Veo%203.1%20Fast-4285F4?style=for-the-badge" alt="Google Veo 3.1 Fast">
+  <img src="https://img.shields.io/badge/Gemini%20Omni%20Flash-8E75B2?style=for-the-badge" alt="Gemini Omni Flash">
+  <img src="https://img.shields.io/badge/Kling%203.0-000000?style=for-the-badge" alt="Kling 3.0">
+  <img src="https://img.shields.io/badge/Kling%203.0%20Omni-000000?style=for-the-badge" alt="Kling 3.0 Omni">
+  <img src="https://img.shields.io/badge/Seedance%202.0-00A6A6?style=for-the-badge" alt="Seedance 2.0">
+  <img src="https://img.shields.io/badge/Seedance%202.0%20Fast-00A6A6?style=for-the-badge" alt="Seedance 2.0 Fast">
+  <img src="https://img.shields.io/badge/Seedance%202.5-00A6A6?style=for-the-badge" alt="Seedance 2.5">
+</p>
 </p>
 </p>
 <h2 align="center">Experiencia laboral</h2>
