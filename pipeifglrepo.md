@@ -144,4 +144,29 @@ Se desempeñó como Ingeniero de Soporte TI en el complejo E2029, ubicado en Cab
       Universidad Piloto de Colombia<br>
       Ingeniería de Sistemas<br>
       <span style="color: #667085;">Enero 2013 – Agosto 2021</span>
-    </li>
+    </li> 
+    <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+
+  <div style="flex: 1; min-width: 280px; padding: 20px; border: 1px solid #dbe3ec; border-radius: 12px; font-family: Arial, sans-serif; text-align: left;">
+    <h2>Mis estudios</h2>
+    <ul>
+      <li>
+        <strong>Ingeniería de Sistemas</strong><br>
+        Universidad Piloto de Colombia<br>
+        Enero 2013 – Agosto 2021
+      </li>
+    </ul>
+  </div>
+
+  <div style="flex: 1; min-width: 280px; padding: 20px; border: 1px solid #dbe3ec; border-radius: 12px; font-family: Arial, sans-serif; text-align: left;">
+    <h2>Formación complementaria</h2>
+    <ul>
+      <li>
+        <strong>Diseño UX/UI</strong><br>
+        Platzi<br>
+        Junio 2024 – Diciembre 2024
+      </li>
+    </ul>
+  </div>
+
+</div>
