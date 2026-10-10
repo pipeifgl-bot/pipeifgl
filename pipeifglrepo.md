@@ -149,7 +149,6 @@ Se desempeñó como Ingeniero de Soporte TI en el complejo E2029, ubicado en Cab
 <div style="flex: 1; min-width: 280px; padding: 20px; border: 1px solid #dbe3ec; border-radius: 12px; font-family: Arial, sans-serif; text-align: left;">
 <div style="max-width: 420px; padding: 20px; border: 1px solid #dbe3ec; border-radius: 12px; background-color: #ffffff; font-family: Arial, sans-serif; color: #263238; text-align: left;">
 
-  <h2 style="margin: 0 0 18px; font-size: 22px;">Mis estudios</h2>
 
   <ul style="margin: 0; padding-left: 20px;">
     <li style="margin-bottom: 16px;">
