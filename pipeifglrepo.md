@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/Repartici%C3%B3n%20de%20discos-6C757D?style=for-the-badge" alt="Repartición de discos">
 <img src="https://img.shields.io/badge/Instalaci%C3%B3n%20de%20controladores-4CAF50?style=for-the-badge" alt="Instalación de controladores">
 <img src="https://img.shields.io/badge/Respaldo%20y%20recuperaci%C3%B3n%20de%20datos-7952B3?style=for-the-badge" alt="Respaldo y recuperación de datos">
-<h3 align="center">Generadores de imágenes</h3>
+<h3 align="center"> Conocimientos en generadores de imágenes IA </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Gemini%203.1%20(Nano%20Banana%202)-4285F4?style=for-the-badge" alt="Gemini 3.1 (Nano Banana 2)">
