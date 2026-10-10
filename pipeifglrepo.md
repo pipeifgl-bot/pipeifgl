@@ -147,15 +147,4 @@ Se desempeñó como Ingeniero de Soporte TI en el complejo E2029, ubicado en Cab
     </li> 
     <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
-  <div style="flex: 1; min-width: 280px; padding: 20px; border: 1px solid #dbe3ec; border-radius: 12px; font-family: Arial, sans-serif; text-align: left;">
-    <h2>Mis estudios</h2>
-    <ul>
-      <li>
-        <strong>Ingeniería de Sistemas</strong><br>
-        Universidad Piloto de Colombia<br>
-        Enero 2013 – Agosto 2021
-      </li>
-    </ul>
-  </div>
-
  
