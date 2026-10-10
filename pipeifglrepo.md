@@ -145,7 +145,7 @@ Este repositorio reúne proyectos creados durante mi trayectoria como diseñador
   <tr>
     <!-- CARD 1 -->
     <td align="center" valign="top" width="33%">
-      <a href="ENLACE-FIGMA-1"><img src="URL-IMAGEN-1" alt="Proyecto 1" width="100%"></a>
+      <a href="Boyaapp.png"><img src="Boyaapp.png" alt="Boyaapp" width="100%"></a>
       <h4>Nombre del proyecto 1</h4>
       <p>Descripción corta del proyecto 1.</p>
       <a href="ENLACE-FIGMA-1"><img src="https://img.shields.io/badge/Ver%20en-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Ver en Figma"></a>
@@ -175,7 +175,7 @@ Este repositorio reúne proyectos creados durante mi trayectoria como diseñador
     </td>
     <!-- CARD 5 -->
     <td align="center" valign="top" width="33%">
-      <a href="ENLACE-FIGMA-5"><img src="URL-IMAGEN-5" alt="Proyecto 5" width="100%"></a>
+      <a href="ENLACE-FIGMA-5"><img src="URL-IMAGEN-" alt="Proyecto 5" width="100%"></a>
       <h4>Nombre del proyecto 5</h4>
       <p>Descripción corta del proyecto 5.</p>
       <a href="ENLACE-FIGMA-5"><img src="https://img.shields.io/badge/Ver%20en-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Ver en Figma"></a>
