@@ -155,15 +155,4 @@ Este repositorio reúne proyectos creados durante mi trayectoria como diseñador
   Aquí encontrarás enlaces a mis trabajos, componentes que he desarrollado y acceso directo a mis proyectos. También podrás conocer algunos de los procesos y principios que aplico en mis diseños, como Atomic Design y Pixel Perfect. Este repositorio reúne proyectos creados durante mi trayectoria como diseñador UX/UI y refleja mi aprendizaje, creatividad y evolución profesional.
 </h3>
 
-<p align="center">
-  <a href="https://www.figma.com/design/TU-ENLACE-AQUI">
-    <img src="PEGA-AQUI-LA-URL-DE-LA-IMAGEN" alt="Boyaapp - Diseño UX/UI" width="100%">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.figma.com/design/TU-ENLACE-AQUI">
-    <img src="https://img.shields.io/badge/Ver%20proyecto%20en-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Ver proyecto en Figma">
-  </a>
-</p>
 
