@@ -135,5 +135,7 @@ Se desempeñó como Ingeniero de Soporte TI en el complejo E2029, ubicado en Cab
 
 <h2 align="center">Diseño UX/UI</h2>
 
-<h2 align="center">Proyectos web</h2>
+<h2 align="center">Aquí encontrarás enlaces a mis trabajos, componentes que he desarrollado y acceso directo a mis proyectos. También podrás conocer algunos de los procesos y principios que aplico en mis diseños, como Atomic Design y Pixel Perfect.
+Este repositorio reúne proyectos creados durante mi trayectoria como diseñador UX/UI y refleja mi aprendizaje, creatividad y evolución profesional.</h2>
+
 
