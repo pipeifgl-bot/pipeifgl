@@ -1,3 +1,4 @@
+<img width="1440" height="1024" alt="Boyaapp" src="https://github.com/user-attachments/assets/38260d27-7087-4c82-a631-5362b902e300" />
 <img width="1200" height="480" alt="INGENIERO DE SISTEMAS" src="https://github.com/user-attachments/assets/1c433295-9d17-45d5-af8b-be1a38dec068" />
 </div>
 <h3 align="center">Hola 👋, soy Iván Felipe González Lozano</h3>
@@ -144,10 +145,16 @@ Este repositorio reúne proyectos creados durante mi trayectoria como diseñador
   </a>
 </p>
 
+<h2 align="center">Diseño UX/UI</h2>
+
+<p align="center">
+  <a href="https://www.figma.com/design/TU-ENLACE-AQUI">
+    <img src="./Boyaapp.png" alt="Boyaapp - Diseño UX/UI" width="100%">
+  </a>
+</p>
+
 <p align="center">
   <a href="https://www.figma.com/design/TU-ENLACE-AQUI">
     <img src="https://img.shields.io/badge/Ver%20proyecto%20en-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Ver proyecto en Figma">
   </a>
 </p>
-
-
