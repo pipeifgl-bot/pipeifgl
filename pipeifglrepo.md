@@ -134,6 +134,3 @@ Se desempeñó como Ingeniero de Soporte TI en el complejo E2029, ubicado en Cab
 </table>  
 
 <h2 align="center">Diseño UX/UI</h2>
-<p align="center">
-  <img src="./GitHub%20Repository%20Banner.png" alt="Diseño UX/UI" width="100%">
-</p>
