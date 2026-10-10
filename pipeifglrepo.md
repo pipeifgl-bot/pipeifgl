@@ -136,6 +136,18 @@ Se desempeñó como Ingeniero de Soporte TI en el complejo E2029, ubicado en Cab
 <h2 align="center">Diseño UX/UI</h2>
 
 <h2 align="center">Aquí encontrarás enlaces a mis trabajos, componentes que he desarrollado y acceso directo a mis proyectos. También podrás conocer algunos de los procesos y principios que aplico en mis diseños, como Atomic Design y Pixel Perfect.
-Este repositorio reúne proyectos creados durante mi trayectoria como diseñador UX/UI y refleja mi aprendizaje, creatividad y evolución profesional.</h2>
+Este repositorio reúne proyectos creados durante mi trayectoria como diseñador UX/UI y refleja mi aprendizaje, creatividad y evolución profesional.</h2> 
+
+<p align="center">
+  <a href="https://www.figma.com/design/TU-ENLACE-AQUI">
+    <img src="./GitHub%20Repository%20Banner.png" alt="Diseño UX/UI" width="100%">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.figma.com/design/TU-ENLACE-AQUI">
+    <img src="https://img.shields.io/badge/Ver%20proyecto%20en-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Ver proyecto en Figma">
+  </a>
+</p>
 
 
