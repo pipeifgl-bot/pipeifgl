@@ -1,4 +1,3 @@
-<img width="3780" height="1890" alt="GitHub Repository Banner" src="https://github.com/user-attachments/assets/9571dc29-5d82-490a-8bb1-37c40e28208c" />
 <img width="1200" height="480" alt="INGENIERO DE SISTEMAS" src="https://github.com/user-attachments/assets/1c433295-9d17-45d5-af8b-be1a38dec068" />
 </div>
 <h3 align="center">Hola 👋, soy Iván Felipe González Lozano</h3>
@@ -134,3 +133,8 @@ Se desempeñó como Ingeniero de Soporte TI en el complejo E2029, ubicado en Cab
   </tr>
 </table>  
 <p align="center"> <img src="./GitHub%20Repository%20Banner.png" alt="Banner del repositorio" width="100%"> </p>
+<h2 align="center">Diseño UX/UI</h2>
+
+<p align="center">
+  <img src="./GitHub%20Repository%20Banner.png" alt="Diseño UX/UI" width="100%">
+</p>
