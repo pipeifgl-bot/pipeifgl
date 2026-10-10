@@ -137,27 +137,6 @@ Se desempeñó como Ingeniero de Soporte TI en el complejo E2029, ubicado en Cab
 
 <h2 align="center">Aquí encontrarás enlaces a mis trabajos, componentes que he desarrollado y acceso directo a mis proyectos. También podrás conocer algunos de los procesos y principios que aplico en mis diseños, como Atomic Design y Pixel Perfect.
 Este repositorio reúne proyectos creados durante mi trayectoria como diseñador UX/UI y refleja mi aprendizaje, creatividad y evolución profesional.</h2> 
-
 </table>
-
 <h2 align="center">Diseño UX/UI</h2>
-
-<p align="center">
-  <a href="https://www.figma.com/design/TU-ENLACE-AQUI">
-    <img src="PEGA-AQUI-LA-URL-DE-LA-IMAGEN" alt="Boyaapp - Sistema de Medición de Profundidad Fluvial" width="100%">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.figma.com/design/TU-ENLACE-AQUI">
-    <img src="https://img.shields.io/badge/Ver%20proyecto%20en-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Ver proyecto en Figma">
-  </a>
-</p>
-
-<hr>
-<br/>
-<img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="350" align='right'>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashi07dashore&show_icons=true&theme=gotham)
-
 
