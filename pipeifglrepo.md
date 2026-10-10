@@ -28,7 +28,9 @@
   <img src="https://img.shields.io/badge/Soporte%20TI-0078D4?style=for-the-badge" alt="Soporte TI">
   <img src="https://img.shields.io/badge/Mantenimiento%20de%20Equipos-6C757D?style=for-the-badge" alt="Mantenimiento de Equipos">
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge" alt="VirtualBox">
-<img src="https://img.shields.io/badge/Rufus-2A579A?style=for-the-badge" alt="Rufus">
+<img src="https://img.shields.io/badge/Rufus-2A579A?style=for-the-badge" alt="Rufus"> 
+<img src="https://img.shields.io/badge/IObit%20Uninstaller-00AEEF?style=for-the-badge" alt="IObit Uninstaller">
+<img src="https://img.shields.io/badge/Driver%20Booster-00AEEF?style=for-the-badge" alt="Driver Booster">
 
 </p>
 <h2 align="center">Experiencia laboral</h2>
