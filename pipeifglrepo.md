@@ -149,10 +149,15 @@ Este repositorio reúne proyectos creados durante mi trayectoria como diseñador
 </p>
 
 <h2 align="center">Diseño UX/UI</h2>
+<h2 align="center">Diseño UX/UI</h2>
+
+<h3 align="center">
+  Aquí encontrarás enlaces a mis trabajos, componentes que he desarrollado y acceso directo a mis proyectos. También podrás conocer algunos de los procesos y principios que aplico en mis diseños, como Atomic Design y Pixel Perfect. Este repositorio reúne proyectos creados durante mi trayectoria como diseñador UX/UI y refleja mi aprendizaje, creatividad y evolución profesional.
+</h3>
 
 <p align="center">
   <a href="https://www.figma.com/design/TU-ENLACE-AQUI">
-    <img src="https://github.com/pipeifgl-bot/pipeifgl/blob/main/Boyaapp.png?raw=true" alt="Boyaapp - Diseño UX/UI" width="100%">
+    <img src="PEGA-AQUI-LA-URL-DE-LA-IMAGEN" alt="Boyaapp - Diseño UX/UI" width="100%">
   </a>
 </p>
 
