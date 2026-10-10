@@ -134,3 +134,6 @@ Se desempeñó como Ingeniero de Soporte TI en el complejo E2029, ubicado en Cab
 </table>  
 
 <h2 align="center">Diseño UX/UI</h2>
+
+<h2 align="center">Proyectos web</h2>
+
