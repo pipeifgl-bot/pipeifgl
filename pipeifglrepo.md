@@ -134,31 +134,3 @@ Se desempeñó como Ingeniero de Soporte TI en el complejo E2029, ubicado en Cab
   </tr>
 </table> 
 
-<div style="display: flex; flex-wrap: nowrap; gap: 16px; overflow-x: auto; width: 100%; padding: 12px 4px;">
-
-  <div style="flex: 0 0 240px; padding: 18px; border: 1px solid #dbe3ec; border-radius: 12px; font-family: Arial, sans-serif; text-align: left;">
-    <h3>Platzi</h3>
-    <p><strong>Diseño UX/UI</strong><br>Junio 2024 – Diciembre 2024</p>
-  </div>
-
-  <div style="flex: 0 0 240px; padding: 18px; border: 1px solid #dbe3ec; border-radius: 12px; font-family: Arial, sans-serif; text-align: left;">
-    <h3>Estudio 2</h3>
-    <p>Agrega aquí la información</p>
-  </div>
-
-  <div style="flex: 0 0 240px; padding: 18px; border: 1px solid #dbe3ec; border-radius: 12px; font-family: Arial, sans-serif; text-align: left;">
-    <h3>Estudio 3</h3>
-    <p>Agrega aquí la información</p>
-  </div>
-
-  <div style="flex: 0 0 240px; padding: 18px; border: 1px solid #dbe3ec; border-radius: 12px; font-family: Arial, sans-serif; text-align: left;">
-    <h3>Estudio 4</h3>
-    <p>Agrega aquí la información</p>
-  </div>
-
-  <div style="flex: 0 0 240px; padding: 18px; border: 1px solid #dbe3ec; border-radius: 12px; font-family: Arial, sans-serif; text-align: left;">
-    <h3>Estudio 5</h3>
-    <p>Agrega aquí la información</p>
-  </div>
-
-</div>
