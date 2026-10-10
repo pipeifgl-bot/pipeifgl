@@ -1,3 +1,4 @@
+<img width="3780" height="1890" alt="GitHub Repository Banner" src="https://github.com/user-attachments/assets/9571dc29-5d82-490a-8bb1-37c40e28208c" />
 <img width="1200" height="480" alt="INGENIERO DE SISTEMAS" src="https://github.com/user-attachments/assets/1c433295-9d17-45d5-af8b-be1a38dec068" />
 </div>
 <h3 align="center">Hola 👋, soy Iván Felipe González Lozano</h3>
