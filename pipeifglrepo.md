@@ -85,12 +85,12 @@ Se desempeñó como Ingeniero de Soporte TI en el complejo E2029, ubicado en Cab
 <!-- EXPERIENCIA 5 -->
 <table align="center" width="100%">
   <tr>
-    <td width="70%"><h3>🏢 Nombre de la empresa 5</h3><b>Cargo</b></td>
-    <td width="30%" align="center"><h3>📅 2021 - 2022</h3></td>
+    <td width="70%"><h3>Inflaparque Acuático Ikarus Ecoparque</h3><b>Auxiliar sistemas</b></td>
+    <td width="30%" align="center"><h3>2019</h3></td>
   </tr>
   <tr>
     <td colspan="2">
-      Escribe aquí tu experiencia en esta empresa (mínimo 500 caracteres). Describe las funciones que desempeñaste, las herramientas y tecnologías que utilizaste, los proyectos en los que participaste y los logros o resultados que obtuviste. Por ejemplo: administración y mantenimiento de redes, soporte técnico a usuarios, optimización de equipos, diseño de interfaces en Figma, creación de piezas gráficas y documentación de procesos. Explica también cómo contribuiste al equipo y qué aprendiste durante esta etapa.
+ Su experiencia en Ikarus Inflaparque Acuático fue principalmente de aprendizaje, al tratarse de su primer empleo. Adquirió conocimientos en sistemas, atención al cliente y manejo del Call Center de Avaya. Realizó soporte técnico, apoyó la administración del servidor y gestionó el servicio de internet del parque. Además, desarrolló habilidades de resolución de problemas, comunicación y trabajo en equipo.
     </td>
   </tr>
 </table>
