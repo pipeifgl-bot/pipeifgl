@@ -1,4 +1,3 @@
-<img width="1440" height="1024" alt="Boyaapp" src="https://github.com/user-attachments/assets/38260d27-7087-4c82-a631-5362b902e300" />
 <img width="1200" height="480" alt="INGENIERO DE SISTEMAS" src="https://github.com/user-attachments/assets/1c433295-9d17-45d5-af8b-be1a38dec068" />
 </div>
 <h3 align="center">Hola 👋, soy Iván Felipe González Lozano</h3>
@@ -139,11 +138,7 @@ Se desempeñó como Ingeniero de Soporte TI en el complejo E2029, ubicado en Cab
 <h2 align="center">Aquí encontrarás enlaces a mis trabajos, componentes que he desarrollado y acceso directo a mis proyectos. También podrás conocer algunos de los procesos y principios que aplico en mis diseños, como Atomic Design y Pixel Perfect.
 Este repositorio reúne proyectos creados durante mi trayectoria como diseñador UX/UI y refleja mi aprendizaje, creatividad y evolución profesional.</h2> 
 
-<p align="center">
-  <a href="https://www.figma.com/design/TU-ENLACE-AQUI">
-    <img src="./GitHub%20Repository%20Banner.png" alt="Diseño UX/UI" width="100%">
-  </a>
-</p>
+</table>
 
 <h2 align="center">Diseño UX/UI</h2>
 
@@ -158,3 +153,4 @@ Este repositorio reúne proyectos creados durante mi trayectoria como diseñador
     <img src="https://img.shields.io/badge/Ver%20proyecto%20en-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Ver proyecto en Figma">
   </a>
 </p>
+
