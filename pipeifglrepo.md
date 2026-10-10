@@ -72,12 +72,12 @@
 <!-- EXPERIENCIA 4 -->
 <table align="center" width="100%">
   <tr>
-    <td width="70%"><h3>🏢 Nombre de la empresa 4</h3><b>Cargo</b></td>
+    <td width="70%"><h3>Estrella International Energy Services/h3><b>Ingeniero de Soporte TI</b></td>
     <td width="30%" align="center"><h3>📅 2022 - 2023</h3></td>
   </tr>
   <tr>
     <td colspan="2">
-      Escribe aquí tu experiencia en esta empresa (mínimo 500 caracteres). Describe las funciones que desempeñaste, las herramientas y tecnologías que utilizaste, los proyectos en los que participaste y los logros o resultados que obtuviste. Por ejemplo: administración y mantenimiento de redes, soporte técnico a usuarios, optimización de equipos, diseño de interfaces en Figma, creación de piezas gráficas y documentación de procesos. Explica también cómo contribuiste al equipo y qué aprendiste durante esta etapa.
+   Se desempeñó como Ingeniero de Soporte TI en el complejo E2029, ubicado en Cabuyaro, Meta. Brindó soporte técnico a usuarios, atendió fallas de equipo s y conectividad, instaló y mantuvo cableado estructurado, monitoreó antenas y redes de internet y apoyó el montaje de oficinas y la instalación de equipos y puntos de red. También orientó a los usuarios y realizó seguimiento a sus requerimientos para contribuir al funcionamiento de los servicios de TI.
     </td>
   </tr>
 </table>
