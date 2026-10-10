@@ -37,7 +37,20 @@
 <img src="https://img.shields.io/badge/Repartici%C3%B3n%20de%20discos-6C757D?style=for-the-badge" alt="Repartición de discos">
 <img src="https://img.shields.io/badge/Instalaci%C3%B3n%20de%20controladores-4CAF50?style=for-the-badge" alt="Instalación de controladores">
 <img src="https://img.shields.io/badge/Respaldo%20y%20recuperaci%C3%B3n%20de%20datos-7952B3?style=for-the-badge" alt="Respaldo y recuperación de datos">
+<h3 align="center">Generadores de imágenes</h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Gemini%203.1%20(Nano%20Banana%202)-4285F4?style=for-the-badge" alt="Gemini 3.1 (Nano Banana 2)">
+  <img src="https://img.shields.io/badge/GPT%20Image%202-10A37F?style=for-the-badge" alt="GPT Image 2">
+  <img src="https://img.shields.io/badge/GPT%20Image%201.5-10A37F?style=for-the-badge" alt="GPT Image 1.5">
+  <img src="https://img.shields.io/badge/Gemini%203%20(Nano%20Banana%20Pro)-4285F4?style=for-the-badge" alt="Gemini 3 (Nano Banana Pro)">
+  <img src="https://img.shields.io/badge/FLUX.2%20[pro]-000000?style=for-the-badge" alt="FLUX.2 [pro]">
+  <img src="https://img.shields.io/badge/FLUX.1%20Kontext%20[max]-000000?style=for-the-badge" alt="FLUX.1 Kontext [max]">
+  <img src="https://img.shields.io/badge/GPT%20Image%201-10A37F?style=for-the-badge" alt="GPT Image 1">
+  <img src="https://img.shields.io/badge/FLUX.1%20[pro]%20Ultra%20Raw-000000?style=for-the-badge" alt="FLUX.1 [pro] Ultra Raw">
+  <img src="https://img.shields.io/badge/FLUX.1%20[pro]%20Ultra-000000?style=for-the-badge" alt="FLUX.1 [pro] Ultra">
+  <img src="https://img.shields.io/badge/FLUX.1%20Kontext%20[pro]-000000?style=for-the-badge" alt="FLUX.1 Kontext [pro]">
+</p>
 </p>
 <h2 align="center">Experiencia laboral</h2>
 
