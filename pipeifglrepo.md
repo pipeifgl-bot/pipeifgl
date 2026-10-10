@@ -132,5 +132,38 @@ Se desempeñó como Ingeniero de Soporte TI en el complejo E2029, ubicado en Cab
  Su experiencia en Ikarus Inflaparque Acuático fue principalmente de aprendizaje, al tratarse de su primer empleo. Adquirió conocimientos en sistemas, atención al cliente y manejo del Call Center de Avaya. Realizó soporte técnico, apoyó la administración del servidor y gestionó el servicio de internet del parque. Además, desarrolló habilidades de resolución de problemas, comunicación y trabajo en equipo.
     </td>
   </tr>
-</table>
+</table> 
+
+<div style="max-width: 420px; padding: 20px; border: 1px solid #dbe3ec; border-radius: 12px; background-color: #ffffff; font-family: Arial, sans-serif; color: #263238; text-align: left;">
+
+  <h2 style="margin: 0 0 18px; font-size: 22px;">Mis estudios</h2>
+
+  <ul style="margin: 0; padding-left: 20px;">
+    <li style="margin-bottom: 16px;">
+      <strong>Universidad / Carrera profesional</strong><br>
+      Universidad Piloto de Colombia<br>
+      Ingeniería de Sistemas<br>
+      <span style="color: #667085;">Enero 2013 – Agosto 2021</span>
+    </li>
+
+    <li style="margin-bottom: 16px;">
+      <strong>Universidad / Carrera técnica</strong><br>
+      Platzi<br>
+      <span style="color: #667085;">Junio 2024 – Diciembre 2024</span>
+    </li>
+
+    <li style="margin-bottom: 16px;">
+      <strong>Universidad / Carrera técnica</strong><br>
+      Oxford Centre<br>
+      <span style="color: #667085;">Junio 2019 – Diciembre 2019</span>
+    </li>
+
+    <li>
+      <strong>Universidad / Carrera técnica</strong><br>
+      Compusis de Colombia<br>
+      <span style="color: #667085;">Enero 2019 – Diciembre 2020</span>
+    </li>
+  </ul>
+
+</div>
 
