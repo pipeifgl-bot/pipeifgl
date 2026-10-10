@@ -31,6 +31,12 @@
 <img src="https://img.shields.io/badge/Rufus-2A579A?style=for-the-badge" alt="Rufus"> 
 <img src="https://img.shields.io/badge/IObit%20Uninstaller-00AEEF?style=for-the-badge" alt="IObit Uninstaller">
 <img src="https://img.shields.io/badge/Driver%20Booster-00AEEF?style=for-the-badge" alt="Driver Booster">
+<img src="https://img.shields.io/badge/Instalaci%C3%B3n%20de%20Windows-0078D4?style=for-the-badge" alt="Instalación de Windows">
+<img src="https://img.shields.io/badge/Instalaci%C3%B3n%20de%20Linux-FCC624?style=for-the-badge" alt="Instalación de Linux">
+<img src="https://img.shields.io/badge/Instalaci%C3%B3n%20de%20macOS-000000?style=for-the-badge" alt="Instalación de macOS">
+<img src="https://img.shields.io/badge/Particionado%20de%20discos-6C757D?style=for-the-badge" alt="Particionado de discos">
+<img src="https://img.shields.io/badge/Instalaci%C3%B3n%20de%20controladores-4CAF50?style=for-the-badge" alt="Instalación de controladores">
+<img src="https://img.shields.io/badge/Respaldo%20y%20recuperaci%C3%B3n%20de%20datos-7952B3?style=for-the-badge" alt="Respaldo y recuperación de datos">
 
 </p>
 <h2 align="center">Experiencia laboral</h2>
