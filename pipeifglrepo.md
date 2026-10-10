@@ -148,6 +148,14 @@ Este repositorio reúne proyectos creados durante mi trayectoria como diseñador
   </a>
 </p>
 
+<h2 align="center">Diseño UX/UI</h2>
+
+<p align="center">
+  <a href="https://www.figma.com/design/TU-ENLACE-AQUI">
+    <img src="https://github.com/pipeifgl-bot/pipeifgl/blob/main/Boyaapp.png?raw=true" alt="Boyaapp - Diseño UX/UI" width="100%">
+  </a>
+</p>
+
 <p align="center">
   <a href="https://www.figma.com/design/TU-ENLACE-AQUI">
     <img src="https://img.shields.io/badge/Ver%20proyecto%20en-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Ver proyecto en Figma">
