@@ -145,25 +145,3 @@ Se desempeñó como Ingeniero de Soporte TI en el complejo E2029, ubicado en Cab
       Ingeniería de Sistemas<br>
       <span style="color: #667085;">Enero 2013 – Agosto 2021</span>
     </li>
-
-    <li style="margin-bottom: 16px;">
-      <strong>Universidad / Carrera técnica</strong><br>
-      Platzi<br>
-      <span style="color: #667085;">Junio 2024 – Diciembre 2024</span>
-    </li>
-
-    <li style="margin-bottom: 16px;">
-      <strong>Universidad / Carrera técnica</strong><br>
-      Oxford Centre<br>
-      <span style="color: #667085;">Junio 2019 – Diciembre 2019</span>
-    </li>
-
-    <li>
-      <strong>Universidad / Carrera técnica</strong><br>
-      Compusis de Colombia<br>
-      <span style="color: #667085;">Enero 2019 – Diciembre 2020</span>
-    </li>
-  </ul>
-
-</div>
-
