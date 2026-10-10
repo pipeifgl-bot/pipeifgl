@@ -132,4 +132,4 @@ Se desempeñó como Ingeniero de Soporte TI en el complejo E2029, ubicado en Cab
     </td>
   </tr>
 </table>  
-<img width="1200" height="480" alt="GitHub Repository Banner.png" src="https://github.com/user-attachments/assets/1c433295-9d17-45d5-af8b-be1a38dec068" />
+<img width="1200" height="480" alt="GitHub Repository Banner" src="./GitHub%20Repository%20Banner.png">
