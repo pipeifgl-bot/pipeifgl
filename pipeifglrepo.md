@@ -77,7 +77,7 @@
   </tr>
   <tr>
     <td colspan="2">
-   Se desempeñó como Ingeniero de Soporte TI en el complejo E2029, ubicado en Cabuyaro, Meta. Brindó soporte técnico a usuarios, atendió fallas de equipo s y conectividad, instaló y mantuvo cableado estructurado, monitoreó antenas y redes de internet y apoyó el montaje de oficinas y la instalación de equipos y puntos de red. También orientó a los usuarios y realizó seguimiento a sus requerimientos para contribuir al funcionamiento de los servicios de TI.
+Se desempeñó como Ingeniero de Soporte TI en el complejo E2029, ubicado en Cabuyaro, Meta. Brindó soporte técnico a usuarios, atendió fallas de equipo s y conectividad, instaló y mantuvo cableado estructurado, monitoreó antenas y redes de internet y apoyó el montaje de oficinas y la instalación de equipos y puntos de red. También orientó a los usuarios y realizó seguimiento a sus requerimientos para contribuir al funcionamiento de los servicios de TI.
     </td>
   </tr>
 </table>
