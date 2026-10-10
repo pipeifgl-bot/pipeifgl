@@ -59,12 +59,12 @@
 <!-- EXPERIENCIA 3 -->
 <table align="center" width="100%">
   <tr>
-    <td width="70%"><h3>🏢 Nombre de la empresa 3</h3><b>Cargo</b></td>
-    <td width="30%" align="center"><h3>📅 2023 - 2024</h3></td>
+    <td width="70%"><h3>Groodev</h3><b>Diseñador web</b></td>
+    <td width="30%" align="center"><h3>2023</h3></td>
   </tr>
   <tr>
     <td colspan="2">
-      Escribe aquí tu experiencia en esta empresa (mínimo 500 caracteres). Describe las funciones que desempeñaste, las herramientas y tecnologías que utilizaste, los proyectos en los que participaste y los logros o resultados que obtuviste. Por ejemplo: administración y mantenimiento de redes, soporte técnico a usuarios, optimización de equipos, diseño de interfaces en Figma, creación de piezas gráficas y documentación de procesos. Explica también cómo contribuiste al equipo y qué aprendiste durante esta etapa.
+     Se desempeñó de forma remota desde Girardot, Cundinamarca, como apoyo en diseño web UX/UI para Grooved, empresa ubicada en Bogotá. Diseñó vistas para una plataforma de restaurante y para el sitio web de Moto Mellos, en Melgar, dedicada a la venta de cascos, repuestos y accesorios para motocicletas. También organizó información, propuso estructuras de navegación y adaptó interfaces a distintos dispositivos.
     </td>
   </tr>
 </table>
