@@ -147,13 +147,18 @@ Se desempeñó como Ingeniero de Soporte TI en el complejo E2029, ubicado en Cab
     </li> 
     <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 <div style="flex: 1; min-width: 280px; padding: 20px; border: 1px solid #dbe3ec; border-radius: 12px; font-family: Arial, sans-serif; text-align: left;">
+<div style="max-width: 420px; padding: 20px; border: 1px solid #dbe3ec; border-radius: 12px; background-color: #ffffff; font-family: Arial, sans-serif; color: #263238; text-align: left;">
 
-  <h2>Platzi</h2>
+  <h2 style="margin: 0 0 18px; font-size: 22px;">Mis estudios</h2>
 
-  <p>
-    <strong>Diseño UX/UI</strong><br>
-    Junio 2024 – Diciembre 2024
-  </p>
+  <ul style="margin: 0; padding-left: 20px;">
+    <li style="margin-bottom: 16px;">
+      <strong>Universidad / Carrera profesional</strong><br>
+      Universidad Piloto de Colombia<br>
+      Ingeniería de Sistemas<br>
+      <span style="color: #667085;">Enero 2013 – Agosto 2021</span>
+    </li> 
+    <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+<div style="flex: 1; min-width: 280px; padding: 20px; border: 1px solid #dbe3ec; border-radius: 12px; font-family: Arial, sans-serif; text-align: left;">
 
-</div>
  
