@@ -134,35 +134,31 @@ Se desempeñó como Ingeniero de Soporte TI en el complejo E2029, ubicado en Cab
   </tr>
 </table> 
 
-<div style="max-width: 420px; padding: 20px; border: 1px solid #dbe3ec; border-radius: 12px; background-color: #ffffff; font-family: Arial, sans-serif; color: #263238; text-align: left;">
-<div style="display: flex; gap: 16px; overflow-x: auto; padding: 12px 4px; scroll-snap-type: x mandatory;">
+<div style="display: flex; flex-wrap: nowrap; gap: 16px; overflow-x: auto; width: 100%; padding: 12px 4px;">
 
-  <div style="flex: 0 0 260px; min-height: 140px; padding: 18px; border: 1px solid #dbe3ec; border-radius: 12px; font-family: Arial, sans-serif; text-align: left; scroll-snap-align: start;">
+  <div style="flex: 0 0 240px; padding: 18px; border: 1px solid #dbe3ec; border-radius: 12px; font-family: Arial, sans-serif; text-align: left;">
     <h3>Platzi</h3>
     <p><strong>Diseño UX/UI</strong><br>Junio 2024 – Diciembre 2024</p>
   </div>
 
-  <div style="flex: 0 0 260px; min-height: 140px; padding: 18px; border: 1px solid #dbe3ec; border-radius: 12px; font-family: Arial, sans-serif; text-align: left; scroll-snap-align: start;">
+  <div style="flex: 0 0 240px; padding: 18px; border: 1px solid #dbe3ec; border-radius: 12px; font-family: Arial, sans-serif; text-align: left;">
     <h3>Estudio 2</h3>
     <p>Agrega aquí la información</p>
   </div>
 
-  <div style="flex: 0 0 260px; min-height: 140px; padding: 18px; border: 1px solid #dbe3ec; border-radius: 12px; font-family: Arial, sans-serif; text-align: left; scroll-snap-align: start;">
+  <div style="flex: 0 0 240px; padding: 18px; border: 1px solid #dbe3ec; border-radius: 12px; font-family: Arial, sans-serif; text-align: left;">
     <h3>Estudio 3</h3>
     <p>Agrega aquí la información</p>
   </div>
 
-  <div style="flex: 0 0 260px; min-height: 140px; padding: 18px; border: 1px solid #dbe3ec; border-radius: 12px; font-family: Arial, sans-serif; text-align: left; scroll-snap-align: start;">
+  <div style="flex: 0 0 240px; padding: 18px; border: 1px solid #dbe3ec; border-radius: 12px; font-family: Arial, sans-serif; text-align: left;">
     <h3>Estudio 4</h3>
     <p>Agrega aquí la información</p>
   </div>
 
-  <div style="flex: 0 0 260px; min-height: 140px; padding: 18px; border: 1px solid #dbe3ec; border-radius: 12px; font-family: Arial, sans-serif; text-align: left; scroll-snap-align: start;">
+  <div style="flex: 0 0 240px; padding: 18px; border: 1px solid #dbe3ec; border-radius: 12px; font-family: Arial, sans-serif; text-align: left;">
     <h3>Estudio 5</h3>
     <p>Agrega aquí la información</p>
   </div>
 
 </div>
-
- 
- 
