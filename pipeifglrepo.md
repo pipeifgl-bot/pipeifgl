@@ -95,21 +95,3 @@ Se desempeñó como Ingeniero de Soporte TI en el complejo E2029, ubicado en Cab
   </tr>
 </table>
 
-<h2 align="left">Conocimientos</h2>
-
-<table>
-  <tr>
-    <th align="left" width="420">🎨 Diseño UX/UI</th>
-  </tr>
-  <tr>
-    <td>
-      ✅ Wireframes<br>
-      ✅ Prototipado<br>
-      ✅ Diseño responsivo<br>
-      ✅ Atomic Design<br>
-      ✅ Pixel Perfect<br>
-      ✅ Generación de contenido con IA<br>
-      ✅ Actualizaciones de software en diseño
-    </td>
-  </tr>
-</table>
